@@ -1,3 +1,5 @@
+# Replaced by database_persistence.rb 
+
 class SessionPersistence
   def initialize(session)
     @session = session
